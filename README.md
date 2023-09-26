@@ -1,5 +1,6 @@
 # CS-453 - Course project
-## Achieved speedup of 4x over baseline, Grade obtained: 6/6
+## Achieved speedup of 4x over baseline
+## Final grade: 6/6
 
 The [project description](https://dcl.epfl.ch/site/_media/education/ca-project.pdf) is available on [Moodle](https://moodle.epfl.ch/course/view.php?id=14334) and the [website of the course](https://dcl.epfl.ch/site/education/ca_2021).
 
