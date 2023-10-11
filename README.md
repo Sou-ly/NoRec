@@ -13,17 +13,4 @@ The description includes:
 * practical informations, including:
   * how to test your implementation on your local machine and on the evaluation server
   * how your submission will be graded
-  * rules for (optionally) using 3rd-party libraries and collaboration (although the project is _individual_)
-
-This repository provides:
-* examples of how to use synchronization primitives (in `sync-examples/`)
-* a reference implementation (in `reference/`)
-* a "skeleton" implementation (in `template/`)
-  * this template is written in C11
-  * feel free to overwrite it completely if you prefer to use C++ (in this case include `<tm.hpp>` instead of `<tm.h>`)
-* the program that will test your implementation (in `grading/`)
-  * the same program will be used on the evaluation server (although possibly with a different seed)
-  * you can use it to test/debug your implementation on your local machine (see the [description](https://dcl.epfl.ch/site/_media/education/ca-project.pdf))
-* a tool to submit your implementation (in `submit.py`)
-  * you should have received by mail a secret _unique user identifier_ (UUID)
-  * see the [description](https://dcl.epfl.ch/site/_media/education/ca-project.pdf) for more information
+  * rules for (optionally) using 3rd-party libraries and collaboration
